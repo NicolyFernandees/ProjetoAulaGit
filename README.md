@@ -1,10 +1,4 @@
-# ProjetoAulaGit
-Git com colab
+## Aula introdutória sobre o uso do Git
+# Git com colabs
 
-## Escrito por Fernando.
-=======
-
-
-
-Escrito por Miguel
 
